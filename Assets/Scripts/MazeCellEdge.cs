@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MazeCellEdge : MonoBehaviour
+public abstract class MazeCellEdge : MonoBehaviour
 {
     public MazeCell cell, otherCell;
     public MazeDirection direction;
@@ -15,6 +15,7 @@ public class MazeCellEdge : MonoBehaviour
         cell.SetEdge(direction, this);
         transform.parent = cell.transform;
         transform.localPosition = Vector3.zero;
+        transform.localRotation = direction.ToRotation();
     }
     
     
