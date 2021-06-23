@@ -421,3 +421,759 @@ System memory in use after: 61.9 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1591.
 Total: 1.634000 ms (FindLiveObjects: 0.212600 ms CreateObjectMapping: 0.041300 ms MarkObjects: 1.332000 ms  DeleteObjects: 0.046900 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.698 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.0 MB.
+System memory in use after: 62.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 1.752800 ms (FindLiveObjects: 0.140100 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.535200 ms  DeleteObjects: 0.044300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1961.445174 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 1.prefab
+  artifactKey: Guid(8114c3e5c204e76439de9aa62c3d1877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 1.prefab using Guid(8114c3e5c204e76439de9aa62c3d1877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff4752064f16c58b139a5402367179f') in 0.091645 seconds
+  Import took 0.093539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.031212 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 2.prefab
+  artifactKey: Guid(30d330820c8d53d4088d8a13b83c13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 2.prefab using Guid(30d330820c8d53d4088d8a13b83c13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac8ad3660313ffd7a836d618c242291') in 0.045199 seconds
+  Import took 0.047457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002650 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 2.prefab
+  artifactKey: Guid(30d330820c8d53d4088d8a13b83c13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 2.prefab using Guid(30d330820c8d53d4088d8a13b83c13b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac8ad3660313ffd7a836d618c242291') in 0.041104 seconds
+  Import took 0.042989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.455625 seconds.
+  path: Assets/Tree.prefab
+  artifactKey: Guid(bbfb402e5478572489632563e47699fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree.prefab using Guid(bbfb402e5478572489632563e47699fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7599b57ad6cd42cc7843a53820aa4cc5') in 0.257318 seconds
+  Import took 0.259431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.401233 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 3.prefab
+  artifactKey: Guid(7ee307a2b92c045489d9309a2a7bc24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 3.prefab using Guid(7ee307a2b92c045489d9309a2a7bc24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81caa1c12cdcc95a03f7c1a50da7ac2a') in 0.036098 seconds
+  Import took 0.038882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006043 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 3.prefab
+  artifactKey: Guid(7ee307a2b92c045489d9309a2a7bc24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 3.prefab using Guid(7ee307a2b92c045489d9309a2a7bc24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81caa1c12cdcc95a03f7c1a50da7ac2a') in 0.042583 seconds
+  Import took 0.045584 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.1 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 1.535600 ms (FindLiveObjects: 0.138600 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.315600 ms  DeleteObjects: 0.047400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.901680 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717cbd1145da19036a8edc6213f83456') in 0.044745 seconds
+  Import took 0.046631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043458 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717cbd1145da19036a8edc6213f83456') in 0.029230 seconds
+  Import took 0.031088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.096261 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05062c1809fe53d19573980c2f5a5f3') in 0.025475 seconds
+  Import took 0.027764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.483346 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7939465678dd276ded2d3e1058c0e85') in 0.022625 seconds
+  Import took 0.027331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.115721 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a0c68e43e5fd5b1f088e9ac3873758') in 0.029336 seconds
+  Import took 0.031576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.818717 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44148e8c1f2742669875695a72de26b9') in 0.024476 seconds
+  Import took 0.026696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.054589 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c61d17a2f9d0cbaf2bda1499a99a6e') in 0.023786 seconds
+  Import took 0.026024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.841358 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb8beddc940b697e768380d1a9171b6') in 0.039022 seconds
+  Import took 0.041016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.266540 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6021563107d3f742fd7e665baeda9108') in 0.023956 seconds
+  Import took 0.026523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.251666 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20c14e105ce5eb06c41ab613d295ed1') in 0.025417 seconds
+  Import took 0.028697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.822349 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4b376a5e96ee79966fd082391ab842') in 0.025380 seconds
+  Import took 0.027851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003968 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4b376a5e96ee79966fd082391ab842') in 0.039304 seconds
+  Import took 0.041273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.997513 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6992786d2b18287bc06d210fc51b27e8') in 0.026135 seconds
+  Import took 0.029290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.044765 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6e6f2c856cb2eee96569a7cfb08766') in 0.039267 seconds
+  Import took 0.041218 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000828 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.1 MB.
+System memory in use after: 63.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 1.469300 ms (FindLiveObjects: 0.144200 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.205400 ms  DeleteObjects: 0.086400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.095446 seconds.
+  path: Assets/Scripts/MazeDoor.cs
+  artifactKey: Guid(9431f4fc98c23d541a8146c26e9b194d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeDoor.cs using Guid(9431f4fc98c23d541a8146c26e9b194d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5b75790b1da54ddb242104ad99e90a') in 0.019300 seconds
+  Import took 0.021249 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 1.566400 ms (FindLiveObjects: 0.182800 ms CreateObjectMapping: 0.039600 ms MarkObjects: 1.255500 ms  DeleteObjects: 0.074200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 784.361384 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(173b20f8ec3a9c7478ea00f6fa57b121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(173b20f8ec3a9c7478ea00f6fa57b121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f20f8798169365fd1b3a46cc66a707') in 0.093184 seconds
+  Import took 0.095336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 835.863342 seconds.
+  path: Assets/Materials/Door.mat
+  artifactKey: Guid(173b20f8ec3a9c7478ea00f6fa57b121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Door.mat using Guid(173b20f8ec3a9c7478ea00f6fa57b121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a24e9e4006d50c015ef6b5d012a809') in 0.056219 seconds
+  Import took 0.058424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 449.728066 seconds.
+  path: Assets/Prefabs/Maze Door.prefab
+  artifactKey: Guid(1d5939f29a4b9c448a7014b03b61c2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Door.prefab using Guid(1d5939f29a4b9c448a7014b03b61c2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f88efe0487ba93e45200e5ace2b94c4') in 0.044841 seconds
+  Import took 0.047094 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.719 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 1.683500 ms (FindLiveObjects: 0.161300 ms CreateObjectMapping: 0.052900 ms MarkObjects: 1.416800 ms  DeleteObjects: 0.051500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.247069 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280c17311899ef881657c72d810da984') in 0.048627 seconds
+  Import took 0.050512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.145032 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f66b1b60859d5c1c340c0bc2e9135e') in 0.037677 seconds
+  Import took 0.039638 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 2.243300 ms (FindLiveObjects: 0.153400 ms CreateObjectMapping: 0.033900 ms MarkObjects: 1.965500 ms  DeleteObjects: 0.089300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.157971 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf5b748c2bd92a5dd9ad1561ee45224') in 0.057015 seconds
+  Import took 0.059019 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000718 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.678 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 1.631900 ms (FindLiveObjects: 0.222100 ms CreateObjectMapping: 0.032400 ms MarkObjects: 1.281700 ms  DeleteObjects: 0.094500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 343.760178 seconds.
+  path: Assets/Prefabs/Maze Door 1.prefab
+  artifactKey: Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Door 1.prefab using Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b29266512153c9dbf175fc9011e439') in 0.085367 seconds
+  Import took 0.087373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.646968 seconds.
+  path: Assets/Prefabs/Maze Door.prefab
+  artifactKey: Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Door.prefab using Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3defa53ded43363c1425055e5df42ad7') in 0.056775 seconds
+  Import took 0.058941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.440586 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db795275e45d5e3bf064dacdc7787177') in 0.041854 seconds
+  Import took 0.044436 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.700 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 1.754000 ms (FindLiveObjects: 0.172800 ms CreateObjectMapping: 0.042400 ms MarkObjects: 1.439900 ms  DeleteObjects: 0.097800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.697 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 1.642100 ms (FindLiveObjects: 0.152800 ms CreateObjectMapping: 0.043500 ms MarkObjects: 1.404500 ms  DeleteObjects: 0.040200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 1.603900 ms (FindLiveObjects: 0.123500 ms CreateObjectMapping: 0.035300 ms MarkObjects: 1.396500 ms  DeleteObjects: 0.047500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.024309 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 3.prefab
+  artifactKey: Guid(7ee307a2b92c045489d9309a2a7bc24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 3.prefab using Guid(7ee307a2b92c045489d9309a2a7bc24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6dc8e16887a47d9fd7936ca9b0f341') in 0.096068 seconds
+  Import took 0.097863 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000678 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.701 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 1.775300 ms (FindLiveObjects: 0.143200 ms CreateObjectMapping: 0.032400 ms MarkObjects: 1.555000 ms  DeleteObjects: 0.043800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.101432 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426c79b0800ff9fc531481cffbc2aff2') in 0.052575 seconds
+  Import took 0.054581 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.811 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1661.
+Total: 2.390200 ms (FindLiveObjects: 0.160700 ms CreateObjectMapping: 0.041000 ms MarkObjects: 2.140000 ms  DeleteObjects: 0.047200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.892750 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e9272cb718d25e188047e832a08b8f') in 0.056568 seconds
+  Import took 0.060106 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000710 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 1.544000 ms (FindLiveObjects: 0.145500 ms CreateObjectMapping: 0.032300 ms MarkObjects: 1.284100 ms  DeleteObjects: 0.081100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.341380 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67ef71aaf213b688d5578df2c5910a9') in 0.042181 seconds
+  Import took 0.044063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.284316 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(7816e6e44d31c644d9d2182cef356688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67ef71aaf213b688d5578df2c5910a9') in 0.026502 seconds
+  Import took 0.028510 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000721 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1665.
+Total: 1.700300 ms (FindLiveObjects: 0.122600 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.493600 ms  DeleteObjects: 0.051800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 239.843200 seconds.
+  path: Assets/Prefabs/Maze Door.prefab
+  artifactKey: Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Door.prefab using Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f33a3b504d3ab7872474749a0a1e276') in 0.086238 seconds
+  Import took 0.088170 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.700 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1668.
+Total: 1.789400 ms (FindLiveObjects: 0.147500 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.552300 ms  DeleteObjects: 0.055100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.717 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 1.650700 ms (FindLiveObjects: 0.133800 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.435100 ms  DeleteObjects: 0.045000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1672.
+Total: 1.717700 ms (FindLiveObjects: 0.172900 ms CreateObjectMapping: 0.046300 ms MarkObjects: 1.450000 ms  DeleteObjects: 0.047000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000777 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.700 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 1.697100 ms (FindLiveObjects: 0.189400 ms CreateObjectMapping: 0.057200 ms MarkObjects: 1.405500 ms  DeleteObjects: 0.044200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 441.615835 seconds.
+  path: Assets/Prefabs/Maze Door.prefab
+  artifactKey: Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Door.prefab using Guid(f1c896f64361adf488b56a50e296869c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b00f73f36df5b2a15569dc3e4acc385') in 0.079335 seconds
+  Import took 0.081305 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000810 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.695 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.1 MB.
+System memory in use after: 63.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 1.629000 ms (FindLiveObjects: 0.128100 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.420800 ms  DeleteObjects: 0.048100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000936 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.700 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1679.
+Total: 1.726600 ms (FindLiveObjects: 0.161600 ms CreateObjectMapping: 0.039600 ms MarkObjects: 1.478400 ms  DeleteObjects: 0.046000 ms)
+
