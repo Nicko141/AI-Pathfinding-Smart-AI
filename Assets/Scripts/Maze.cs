@@ -10,6 +10,10 @@ public class Maze : MonoBehaviour
 
     public MazeDoor doorPrefab;
 
+    public MazeRoomSettings[] roomSettings;
+
+    private List<MazeRoom> rooms = new List<MazeRoom>();
+
     [Range(0f, 1f)]
     public float doorProbability;
 
@@ -39,6 +43,14 @@ public class Maze : MonoBehaviour
         MazePassage passage = Instantiate(prefab) as MazePassage;
         passage.Initialize(cell, otherCell, direction);
         passage = Instantiate(prefab) as MazePassage;
+        if(passage is MazeDoor)
+        {
+            otherCell.Initialize(CreateRoom(cell.room.settingIndex));
+        }
+        else
+        {
+            otherCell.Initialize(cell.room);
+        }
         passage.Initialize(otherCell, cell, direction.GetOpposite());
     }
 
@@ -86,7 +98,10 @@ public class Maze : MonoBehaviour
 
     private void DoFirstGenerationStep(List<MazeCell> activeCells)
     {
-        activeCells.Add(CreateCell(RandomCoordinates));
+        MazeCell newCell = CreateCell(RandomCoordinates);
+        newCell.Initialize(CreateRoom(-1));
+        activeCells.Add(newCell);
+            
     }
 
     private void DoNextGenerationStep(List<MazeCell> activeCells)
@@ -133,6 +148,20 @@ public class Maze : MonoBehaviour
         return newCell;
     }
 
+    private MazeRoom CreateRoom(int indexToExclude)
+    {
+        MazeRoom newRoom = ScriptableObject.CreateInstance<MazeRoom>();
+        newRoom.settingIndex = Random.Range(0, roomSettings.Length);
+        if(newRoom.settingIndex == indexToExclude)
+        {
+            newRoom.settingIndex = (newRoom.settingIndex + 1) % roomSettings.Length;
+        }
+
+        newRoom.settings = roomSettings[newRoom.settingIndex];
+        rooms.Add(newRoom);
+        return newRoom;
+
+    }
 
 
 }

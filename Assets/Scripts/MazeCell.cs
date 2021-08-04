@@ -7,6 +7,7 @@ public class MazeCell : MonoBehaviour
     public IntVector2 coordinates;
 	private MazeCellEdge[] edges = new MazeCellEdge[MazeDirections.Count];
 	private int initializedEdgeCount;
+	public MazeRoom room;
 
 	public bool IsFullyInitialized
 	{
@@ -44,5 +45,11 @@ public class MazeCell : MonoBehaviour
 			}
 			throw new System.InvalidOperationException("MazeCell has no uninitialized directions left.");
 		}
+	}
+
+	public void Initialize(MazeRoom room)
+	{
+		room.Add(this);
+		transform.GetChild(0).GetComponent<Renderer>().material = room.settings.floorMaterial;
 	}
 }
