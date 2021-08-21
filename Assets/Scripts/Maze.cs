@@ -103,6 +103,23 @@ public class Maze : MonoBehaviour
         activeCells.Add(newCell);
             
     }
+    
+    private void CreatePassageInSameRoom (MazeCell cell, MazeCell otherCell, MazeDirection direction) 
+    {
+        MazePassage passage = Instantiate(passagePrefab) as MazePassage;
+        passage.Initialize(cell, otherCell, direction);
+        passage = Instantiate(passagePrefab) as MazePassage;
+        passage.Initialize(otherCell, cell, direction.GetOpposite());
+        
+        if (cell.room != otherCell.room) 
+        {
+            MazeRoom roomToAssimilate = otherCell.room;
+            cell.room.Assimilate(roomToAssimilate);
+            rooms.Remove(roomToAssimilate);
+            Destroy(roomToAssimilate);
+        }
+    
+    }
 
     private void DoNextGenerationStep(List<MazeCell> activeCells)
     {
@@ -123,6 +140,10 @@ public class Maze : MonoBehaviour
                 neighbor = CreateCell(coordinates);
                 CreatePassage(currentCell, neighbor, direction);
                 activeCells.Add(neighbor);
+            }
+            else if (currentCell.room.settingIndex == neighbor.room.settingIndex) 
+            {
+                CreatePassageInSameRoom(currentCell, neighbor, direction);
             }
             else
             {

@@ -6,6 +6,9 @@ public abstract class MazeCellEdge : MonoBehaviour
 {
     public MazeCell cell, otherCell;
     public MazeDirection direction;
+    public virtual void OnPlayerEntered () {}
+
+    public virtual void OnPlayerExited () {}
 
     public virtual void Initialize(MazeCell cell, MazeCell otherCell, MazeDirection direction)
     {
