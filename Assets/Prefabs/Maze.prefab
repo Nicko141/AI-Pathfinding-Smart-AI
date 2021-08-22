@@ -70,4 +70,4 @@ MonoBehaviour:
     x: 20
     z: 20
   cellPrefab: {fileID: 3331156884099078436, guid: 4691c63fb352b7942b6a98569bdbd051, type: 3}
-  generationStepDelay: 0
+  generationStepDelay: -1000
