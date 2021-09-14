@@ -24,8 +24,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/MazeCell.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MazeCellEdge.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MazeDoor.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Pathfinding scripts/MoveAI.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Pathfinding scripts/Door.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Pathfinding scripts/MoveAI.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1wFU6EJcwq75767Am5tIWiApzeO" />
@@ -45,6 +45,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Built Games\AI Pathfinding &amp; Smart AI.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="E:\Built Games" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -76,7 +84,7 @@
       <updated>1628053655187</updated>
       <workItem from="1628053661056" duration="3598000" />
       <workItem from="1629585609392" duration="4071000" />
-      <workItem from="1631579576779" duration="1712000" />
+      <workItem from="1631579576779" duration="2753000" />
     </task>
     <servers />
   </component>

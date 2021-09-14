@@ -9,10 +9,10 @@ public class MoveAI : MonoBehaviour
     private NavMeshAgent agent;
     void Start()
     {
-        agent = GetComponent<NavMeshAgent>();
+        agent = GetComponent<NavMeshAgent>();//find agent 47
         if(agent == null)
         {
-            Debug.Log("agent is lost");
+            Debug.Log("agent is lost");// tell me if agent 47 cant be found
         }
     }
 
@@ -23,7 +23,7 @@ public class MoveAI : MonoBehaviour
         {
             if(agent.destination != goal.position)
             {
-                agent.destination = goal.position;
+                agent.destination = goal.position;// give agent 47 a target
             }
         }
     }

@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pathfinding.unity
     guid: a04dded96386d554ab4a82ec67a09b89
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Smart AI.unity
     guid: 90c97b4853464774995d71485dd5db96
   - enabled: 0
